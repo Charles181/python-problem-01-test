@@ -41,9 +41,6 @@ Before you start, make sure you have:
 4. **Do NOT modify any other code** (especially the bottom section marked "Do NOT modify")
 5. Save your file
 
-### Example:
-- **Before:** `print("Goodbye, world!")`
-- **After:** `print("Hello, world!")`
 
 ---
 
